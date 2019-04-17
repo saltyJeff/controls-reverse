@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:nano",
+    "port": "COM10",
+    "sketch": "controls-reverse.ino",
+    "configuration": "cpu=atmega328old"
+}
